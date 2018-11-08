@@ -1,8 +1,8 @@
 {
   "name": "plotly-tagged",
-  "version": "1.40.1",
+  "version": "1.42.4",
   "description": "Plotly Minified",
-  "main": "plotly-1.40.1.js",
+  "main": "plotly-1.42.4.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/plotly/plotly.js.git"
